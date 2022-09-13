@@ -1,6 +1,6 @@
 <p align="left">
-<h3>Hi there, <a href="https://azhanmohammed.netlify.app/">Azhan Mohammed</a> here 👋</h3>
-  <p>Check out my blogs <a href="https://computervisionsimplified.gatsbyjs.io/">here</a></p>
+<h3>Hi there, <a href="http://azhanmohammed.xyz/">Azhan Mohammed</a> here 👋</h3>
+  <p>Check out my blogs <a href="http://blog.azhanmohammed.xyz/">here</a></p>
 </p>
 <p align="right">
   <h4>Connect with me ... </h4>
