@@ -1,7 +1,7 @@
-<p align="left">
-<h3>Hi there, <a href="http://azhanmohammed.xyz/">Azhan Mohammed</a> here 👋</h3>
-  <p>Check out my blogs <a href="http://blog.azhanmohammed.xyz/">here</a></p>
-</p>
+## Hi, I am <a href="http://azhanmohammed.xyz/">Azhan Mohammed</a>, a computer vision researcher
+
+Check out my blogs <a href="http://blog.azhanmohammed.xyz/">here</a></p>
+
 <p align="right">
   <h4>Connect with me:</h4>
   <a href="https://www.linkedin.com/in/azhanmohammed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -18,6 +18,61 @@
 - [Credit Card Fraud Detection using Machine Learning and Deep Learning Techniques](https://ieeexplore.ieee.org/abstract/document/9316002)
 - [LaDiff ULMFiT: a layer differentiated training approach for ULMFiT](https://link.springer.com/chapter/10.1007/978-3-030-73696-5_6)
 - [ResAttUNet: Detecting Marine Debris using an Attention activated Residual UNet](https://arxiv.org/abs/2210.08506)
+
+<table>
+<tr>
+<td colspan="2">
+<strong><samp>Working on:</samp></strong>
+</td>
+<td colspan="2">
+<strong><samp>Learning:</samp></strong>
+</td>
+<td colspan="2">
+<strong><samp>Reading:</samp></strong>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+Super Resolution of Depth Elevation Maps
+</td>
+<td colspan="2">
+Swift + SwiftUI
+</td>
+<td colspan="2">
+Zero to One
+</td>
+</tr>
+
+
+
+<tr>
+<td colspan="2">
+Fingerprint recognition using attention based models
+</td>
+<td colspan="2">
+UI + UX design
+</td>
+<td colspan="2">
+Atomic Habits
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+Adversarial attacks and their affect on COTS and SOTA facial recognition models
+</td>
+<td colspan="2">
+How to write the essays good
+</td>
+<td colspan="2">
+The Unfair Advantage
+</td>
+</tr>
+
+</table>
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
