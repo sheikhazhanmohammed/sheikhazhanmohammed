@@ -63,7 +63,7 @@ Atomic Habits
 Adversarial attacks and their affect on COTS and SOTA facial recognition models
 </td>
 <td colspan="2">
-How to write the essays good
+Geospatial Data Analysis
 </td>
 <td colspan="2">
 The Unfair Advantage
