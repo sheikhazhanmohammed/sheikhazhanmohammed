@@ -60,7 +60,7 @@ Atomic Habits
 
 <tr>
 <td colspan="2">
-Adversarial attacks and their affect on COTS and SOTA facial recognition models
+Novel Computer Vision Algorithms
 </td>
 <td colspan="2">
 Geospatial Data Analysis
