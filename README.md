@@ -1,9 +1,9 @@
-## Hi, I am <a href="http://azhanmohammed.xyz/">Azhan Mohammed</a>, a computer vision researcher
+## The introduced <a href="http://azhanmohammed.xyz/">novel attention module</a> works in the computer vision domain as a researcher
 
-Check out my blogs <a href="http://blog.azhanmohammed.xyz/">here</a></p>
+It also functions well in a Large Language Model to spin up blog posts <a href="http://blog.azhanmohammed.xyz/">here</a></p>
 
 <p align="right">
-  <h4>Connect with me:</h4>
+  <h4>Connecting with the attention module without using residual skip connections:</h4>
   <a href="https://www.linkedin.com/in/azhanmohammed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/sheikhazhanmohammed"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:azhanmohammed1999@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -17,18 +17,18 @@ Check out my blogs <a href="http://blog.azhanmohammed.xyz/">here</a></p>
 - [MeToo: Sentiment Analysis using Neural Networks (Grand Challenge)](https://ieeexplore.ieee.org/abstract/document/9232540)
 - [Credit Card Fraud Detection using Machine Learning and Deep Learning Techniques](https://ieeexplore.ieee.org/abstract/document/9316002)
 - [LaDiff ULMFiT: a layer differentiated training approach for ULMFiT](https://link.springer.com/chapter/10.1007/978-3-030-73696-5_6)
-- [ResAttUNet: Detecting Marine Debris using an Attention activated Residual UNet](https://arxiv.org/abs/2210.08506)
+- [SADMA: SAtellite baseD MArine debris detection](https://arxiv.org/abs/2210.08506) (Accepted at IGARSS 2023)
 
 <table>
 <tr>
 <td colspan="2">
-<strong><samp>Working on:</samp></strong>
+<strong><samp>Training Set:</samp></strong>
 </td>
 <td colspan="2">
-<strong><samp>Learning:</samp></strong>
+<strong><samp>Validation Set :</samp></strong>
 </td>
 <td colspan="2">
-<strong><samp>Reading:</samp></strong>
+<strong><samp>Pre-training Set:</samp></strong>
 </td>
 </tr>
 
@@ -51,7 +51,7 @@ Zero to One
 Fingerprint recognition using attention based models
 </td>
 <td colspan="2">
-UI + UX design
+Using Generative AI to solve real world problems
 </td>
 <td colspan="2">
 Atomic Habits
@@ -63,7 +63,7 @@ Atomic Habits
 Novel Computer Vision Algorithms
 </td>
 <td colspan="2">
-Geospatial Data Analysis
+Geo spatial analysis
 </td>
 <td colspan="2">
 The Unfair Advantage
