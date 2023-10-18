@@ -1,4 +1,4 @@
-## The introduced <a href="http://azhanmohammed.xyz/">novel attention module</a> works in the computer vision domain as a researcher
+## The introduced <a href="http://azhanmohammed.xyz/">novel attention module</a> works in the computer vision domain as a software engineer
 
 It also functions well in a Large Language Model to spin up blog posts <a href="http://blog.azhanmohammed.xyz/">here</a></p>
 
@@ -34,7 +34,7 @@ It also functions well in a Large Language Model to spin up blog posts <a href="
 
 <tr>
 <td colspan="2">
-Super Resolution of Depth Elevation Maps
+NLP + CV
 </td>
 <td colspan="2">
 Swift + SwiftUI
@@ -63,7 +63,7 @@ Atomic Habits
 Novel Computer Vision Algorithms
 </td>
 <td colspan="2">
-Geo spatial analysis
+Building deep learning applications using C++
 </td>
 <td colspan="2">
 The Unfair Advantage
