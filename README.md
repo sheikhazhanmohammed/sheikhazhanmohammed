@@ -87,6 +87,9 @@ The Unfair Advantage
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sheikhazhanmohammed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p align="center">
   <a href="https://github.com/sheikhazhanmohammed">
     <img src="https://komarev.com/ghpvc/?username=sheikhazhanmohammed&color=blue&style=flat)" />
