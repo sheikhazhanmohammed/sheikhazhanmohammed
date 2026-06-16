@@ -1,6 +1,4 @@
-## The introduced <a href="http://azhanmohammed.xyz/">novel attention module</a> works in the computer vision domain as a software engineer
-
-It also functions well in a Large Language Model to spin up blog posts <a href="http://blog.azhanmohammed.xyz/">here</a></p>
+## The introduced <a href="https://azhan.in/">novel attention module</a> works in the computer vision domain as a software engineer.
 
 <p align="right">
   <h4>Connecting with the attention module without using residual skip connections:</h4>
@@ -86,8 +84,6 @@ The Unfair Advantage
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhazhanmohammed&hide_border=true&theme=transparent&hide=jupyter%20notebook,javascript,html,css,scss">
   </a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sheikhazhanmohammed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="center">
